@@ -1,7 +1,7 @@
 #functions for data extraction and cleaning
 
 #import modules
-import regex as re
+import re
 import pandas as pd
 import numpy as np
 import googletrans as gt
